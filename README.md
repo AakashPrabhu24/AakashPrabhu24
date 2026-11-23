@@ -1,72 +1,77 @@
+<!-- =========================================================================
+     ⚡ AAKASH PRABHU // THE CYBER-SYSTEMS ARCHITECT [GEN-Z COMIC EDITION]
+     Interactive Click-to-Expand System Dossiers • Neon Visual Hierarchy
+========================================================================= -->
+
 <div align="center">
 
-<!-- 🌌 HERO ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=220&section=header&text=AAKASH%20PRABHU&fontSize=46&fontAlignY=36&desc=%E2%9A%A1%20AI%20Systems%20Architect%20%7C%20Autonomous%20Agents%20%7C%20Semantic%20Search%20%7C%20Distributed%20Core&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Aakash Prabhu Banner"/>
+<!-- 🌌 NEON HERO ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=220&section=header&text=⚡%20AAKASH%20PRABHU%20⚡&fontSize=44&fontAlignY=36&desc=%E2%96%B6%20CYBERNETIC%20SYSTEMS%20ARCHITECT%20%7C%20AI%20AGENT%20OPERATIVE&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Aakash Prabhu Cyber Banner"/>
 
 <!-- ⚡ DYNAMIC LIVE TERMINAL TYPEWRITER -->
 <p align="center">
   <a href="https://github.com/AakashPrabhu24">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%3E+Architecting+Autonomous+AI+Agent+Swarms+(Gemini+LLM);%3E+Sub-15ms+Semantic+Search+%26+Vector+Retrieval+(TF-IDF);%3E+Engineering+Two-Sided+Matching+Engines+(0.0+-+1.0+Relevance);%3E+Real-Time+Low-Latency+WebSockets+(Django+Channels+%2B+YOLOv8);%3E+Building+Production-Grade+AI+Systems+%40+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=14&duration=2400&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=45&lines=LEVEL+99+SYSTEMS+ARCHITECT+LOADED...;SUMMONING+AUTONOMOUS+AI+AGENT+SWARMS...;EXECUTING+SUB-15MS+SEMANTIC+SEARCH...;CALCULATING+TWO-SIDED+MATCH+COMPATIBILITY...;REAL-TIME+WEBSOCKET+TELEMETRY+ONLINE!" alt="Comic Terminal Typewriter" />
   </a>
 </p>
 
-<!-- 🛰️ SYSTEM HUD STATUS CHIPS -->
+<!-- 🕹️ RPG-STYLE CHARACTER STAT CARD -->
+<table align="center">
+  <tr>
+    <td align="center"><b>⚔️ CLASS</b></td>
+    <td align="center"><b>⚡ POWER STATS</b></td>
+    <td align="center"><b>🎯 SPECIALTY</b></td>
+    <td align="center"><b>📍 FACTION BASE</b></td>
+  </tr>
+  <tr>
+    <td align="center"><code>AI Systems Engineer</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/CGPA-9.20_%2F_10-00E5FF?style=flat-square"/> <img src="https://img.shields.io/badge/SFIT-RANK_%232-FFD700?style=flat-square"/></td>
+    <td align="center"><code>Agents • Search • Sockets</code></td>
+    <td align="center"><code>Mumbai, India // Earth</code></td>
+  </tr>
+</table>
+
+<!-- 🔗 ACTION BUTTONS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status"/>
-  <img src="https://img.shields.io/badge/RANK-DEPT_%232_%2F_SFIT-FFD700?style=for-the-badge&logo=target&logoColor=black" alt="Rank"/>
-  <img src="https://img.shields.io/badge/CGPA-9.20_%2F_10.0-00E5FF?style=for-the-badge&logo=googlekeep&logoColor=black" alt="CGPA"/>
-  <img src="https://img.shields.io/badge/BASE-MUMBAI%2C_IN-FF0055?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <a href="https://linkedin.com/in/aakash-prabhu-61165832b"><img src="https://img.shields.io/badge/LINKEDIN-MISSION_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aakashprabhu24@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_EMAIL-PING_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/AakashPrabhu24?tab=repositories"><img src="https://img.shields.io/badge/CODE_VAULT-DEPLOYMENTS-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Repos"/></a>
 </p>
 
-<!-- 🔗 QUICK CONNECT PILLS -->
 <p align="center">
-  <a href="https://linkedin.com/in/aakash-prabhu-61165832b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aakashprabhu24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AakashPrabhu24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/AakashPrabhu24?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/></a>
-</p>
-
-<p align="center">
-  <b><i>"Building at the bleeding edge of autonomous agent loops, sub-millisecond semantic retrieval, and high-concurrency event backends. Obsessed with high-throughput systems, zero silent failures, and deterministic engineering around probabilistic AI."</i></b>
+  <b>💥 <i>"Probabilistic AI is wild magic. I build the deterministic iron armor around it."</i></b>
 </p>
 
 ---
 
 </div>
 
-## 🧬 Core Tech Radar & Engineering Primitives
+## 🗂️ CLASSIFIED MISSION DOSSIERS *(Click to Decrypt)*
 
-```yaml
-identity:
-  engineer: "Aakash Keshav Prabhu"
-  degree: "B.E. Information Technology @ SFIT Mumbai"
-  metrics: "CGPA: 9.20/10.0 • Department Rank #2"
-  status: "Shipping High-Throughput AI Systems"
+> **Interactive Protocols:** Each mission card summarizes the high-level highlight. **Click anywhere on a dossier to expand the full architecture, data pipeline, and telemetry specs!**
 
-technical_primitives:
-  autonomous_agents:
-    - "Multi-agent LLM loops with stateful memory"
-    - "Strict JSON schema validation & regex fallbacks"
-    - "Proactive conversational follow-up triggers"
-  semantic_search:
-    - "In-memory TF-IDF vectorization & IDF scoring"
-    - "Clinical & domain synonym normalization"
-    - "Sub-15ms client inference (zero server costs)"
-  matching_engines:
-    - "Two-sided multi-criteria relevance (0.0 - 1.0)"
-    - "Semantic natural query filter decomposition"
-  distributed_core:
-    - "Django Channels WebSockets & live telemetry"
-    - "Automated 120s escalation state machines"
-```
+<br/>
 
----
+<!-- =========================================================================
+     MISSION 01: CRASHKAVACH
+========================================================================= -->
+<details>
+<summary>
+<b>🚨 MISSION 01: CRASHKAVACH // COMPUTER VISION EMERGENCY ORCHESTRATION</b>
+<br/>
+<img src="https://img.shields.io/badge/CORE-YOLOv8_VISION-FF3B30?style=flat-square"/> 
+<img src="https://img.shields.io/badge/PIPELINE-WEBSOCKET_BROADCAST-00FF88?style=flat-square"/> 
+<img src="https://img.shields.io/badge/FAILSAFE-120s_TWILIO_DISPATCH-FF9500?style=flat-square"/>
+<br/>
+👉 <i><code>[CLICK TO DECRYPT SYSTEM BLUEPRINT & TELEMETRY SPECS]</code></i>
+</summary>
+<br/>
 
-## ⚡ Flagship Architectures & High-Impact Systems
+#### 💥 The Crisis
+Road accident victims lose critical minutes because CCTV cameras passively record footage instead of triggering emergency responders.
 
-### 🚨 [CrashKavach](https://github.com/AakashPrabhu24/CrashKavach)
-> **Distributed AI Computer Vision & Real-Time Emergency Orchestration**  
-> `Python` • `Django 5` • `YOLOv8` • `OpenCV` • `Django Channels` • `WebSockets` • `Twilio` • `Leaflet.js`
+#### 🛡️ The Autonomous Solution
+Engineered an end-to-end incident dispatch platform that actively monitors video feeds, detects vehicle collisions in real time, and alerts emergency teams in seconds.
 
 ```text
 [CCTV Video Streams]
@@ -78,20 +83,45 @@ technical_primitives:
 [Django Channels WebSockets]
        │ Instant Broadcast
        ▼
-[5 Concurrent Responder Portals]
+[5 Concurrent Responder Dashboards]
        │ No Ack within 120s
        ▼
 [Automated Twilio SMS & Voice Escalation]
 ```
-- **Real-Time Edge Inference:** Ingests live high-resolution CCTV camera streams, executing **YOLOv8** & OpenCV computer vision pipelines for instant vehicle collision detection.
-- **Sub-Second Telemetry Broadcast:** Built an event-driven WebSocket distribution layer using Django Channels, broadcasting live incident coordinates to **5 role-based responder portals** simultaneously.
-- **Autonomous Escalation Engine:** Programmed a 120-second state-machine timer that automatically re-triggers emergency SMS and voice alerts via Twilio REST APIs if responder teams do not acknowledge critical incidents.
 
----
+#### 🕹️ High-Tech Highlights
+- 👁️ **Computer Vision:** YOLOv8 deep learning pipeline analyzing camera streams for vehicle impacts with OpenCV.
+- 📡 **Zero-Latency Telemetry:** Django Channels WebSockets synchronizing live incident GPS across **5 concurrent responder dashboards** (Police, Hospital, Fire, Media, Admin).
+- ⏱️ **120s Fail-Safe Escalation:** Autonomous state machine that starts a countdown timer on every incident and triggers emergency SMS/voice calls via Twilio REST APIs if responders do not acknowledge.
 
-### 🎯 [CampusPitch](https://github.com/AakashPrabhu24/CampusPitch)
-> **Conversational AI Deal Flow & Autonomous Two-Sided Matching Platform**  
-> `Kotlin` • `Jetpack Compose` • `Google Gemini LLM` • `Firebase Firestore` • `Coroutines` • `MVVM`
+<p align="left">
+  <a href="https://github.com/AakashPrabhu24/CrashKavach"><img src="https://img.shields.io/badge/DEPLOY_REPO-CrashKavach-red?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<hr/>
+</details>
+
+<br/>
+
+<!-- =========================================================================
+     MISSION 02: CAMPUSPITCH
+========================================================================= -->
+<details>
+<summary>
+<b>🎯 MISSION 02: CAMPUSPITCH // CONVERSATIONAL AI TWO-SIDED MATCHMAKER</b>
+<br/>
+<img src="https://img.shields.io/badge/AI-GEMINI_AGENT_SWARM-00E5FF?style=flat-square"/> 
+<img src="https://img.shields.io/badge/ALGO-0.0_TO_1.0_RELEVANCE-7928CA?style=flat-square"/> 
+<img src="https://img.shields.io/badge/CLIENT-ANDROID_KOTLIN-3DDC84?style=flat-square"/>
+<br/>
+👉 <i><code>[CLICK TO DECRYPT MULTI-AGENT SWARM & MATCHING ENGINE]</code></i>
+</summary>
+<br/>
+
+#### 💥 The Crisis
+Student founders lack pitch polish, and venture funds waste weeks wading through unparsed pitch decks to find compatible thesis matches.
+
+#### 🛡️ The Autonomous Solution
+Engineered an AI-driven deal flow ecosystem that conducts conversational pitch intake, normalizes entity schemas, and algorithmically pairs founders with accredited investors.
 
 ```text
 [Conversational Voice/Text Pitch]
@@ -105,15 +135,40 @@ technical_primitives:
        ▼
 [Autonomous Outreach Brief Draft]
 ```
-- **Autonomous Multi-Agent Architecture:** Engineered `StudentIntakeAgent`, `InvestorSearchAgent`, and `InvestorRegistrationAgent` using Gemini LLM to ingest unconstrained voice/text dialogue and generate strictly validated JSON schemas.
-- **Two-Sided Matching Algorithm:** Built a ranking engine computing multidimensional relevance scores (0.0 to 1.0) by matching founder pitch vectors with investor theses across sector taxonomies, synonyms, and capital ranges.
-- **Natural Query Search:** Decomposes free-form conversational queries into multi-attribute database filters with deterministic regex fallbacks and Indian currency normalization (`Lakhs`/`Crores`).
 
----
+#### 🕹️ High-Tech Highlights
+- 🤖 **Autonomous Multi-Agent Swarm:** Built 3 Gemini LLM agents (`StudentIntakeAgent`, `InvestorSearchAgent`, `InvestorRegistrationAgent`) with strict JSON schema parsing and proactive follow-up dialogue.
+- 🎯 **Two-Sided Matching Algorithm:** Calculates multidimensional relevance scores (0.0 to 1.0) aligning sector taxonomies, synonyms, and capital ranges (with Indian currency Lakhs/Crores normalization).
+- 💬 **Outreach Synthesis:** Automatically drafts tailored introductory briefs between matched parties, eliminating manual cold outreach.
 
-### 🧠 [CliniSync AI](https://github.com/AakashPrabhu24/CliniSync-AI)
-> **Client-Side Semantic Search & Multi-Factor Diagnostic Retrieval Engine**  
-> `JavaScript (ES6+)` • `Python` • `Pandas` • `TF-IDF` • `Tailwind CSS` • `Web Speech API`
+<p align="left">
+  <a href="https://github.com/AakashPrabhu24/CampusPitch"><img src="https://img.shields.io/badge/DEPLOY_REPO-CampusPitch-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<hr/>
+</details>
+
+<br/>
+
+<!-- =========================================================================
+     MISSION 03: CLINISYNC AI
+========================================================================= -->
+<details>
+<summary>
+<b>🧠 MISSION 03: CLINISYNC AI // ZERO-SERVER SEMANTIC SEARCH ENGINE</b>
+<br/>
+<img src="https://img.shields.io/badge/SPEED-SUB--15MS_INFERENCE-00FF66?style=flat-square"/> 
+<img src="https://img.shields.io/badge/PRIVACY-100%25_CLIENT_SIDE-FF007F?style=flat-square"/> 
+<img src="https://img.shields.io/badge/SEARCH-TF--IDF_VECTOR_IR-00F2FE?style=flat-square"/>
+<br/>
+👉 <i><code>[CLICK TO DECRYPT VECTOR RETRIEVAL & SYNONYM PIPELINE]</code></i>
+</summary>
+<br/>
+
+#### 💥 The Crisis
+Patients type panicked, colloquial symptom phrases (*"tummy hurts"*, *"breathless"*), while cloud AI medical apps leak confidential health telemetry.
+
+#### 🛡️ The Autonomous Solution
+Engineered a client-side semantic search and triage engine running entirely in vanilla JavaScript that resolves colloquial queries against clinical conditions in sub-15ms with zero cloud transmission.
 
 ```text
 [User Colloquial Symptom Query]
@@ -127,15 +182,40 @@ technical_primitives:
        ▼
 [Stratified Diagnostic Triage Decision]
 ```
-- **Zero-Server Semantic Retrieval:** Custom in-browser information retrieval engine computing Inverse Document Frequency (IDF) and weighted TF-IDF vector similarity to match colloquial queries against medical condition matrices.
-- **Domain Synonym Normalization:** Tokenizes multi-word phrases and maps colloquial slang into canonical clinical entities (*"chest hurts"* ➔ `chest_pain`).
-- **Sub-15ms Latency & 100% Privacy:** Pure client-side JavaScript execution ensuring zero cloud compute cost and zero patient telemetry leakage.
 
----
+#### 🕹️ High-Tech Highlights
+- ⚡ **Sub-15ms Vector Search:** Computes Inverse Document Frequency (IDF) and weighted TF-IDF similarity vectors in-memory directly inside the user's browser.
+- 🧬 **Clinical Synonym Normalization:** Uses n-gram phrase tokenization to normalize colloquial phrases (*"chest hurts"* ➔ `chest_pain`) before vector scoring.
+- 🛡️ **Zero Cloud Leakage:** 100% client-side privacy architecture with zero server cost and zero patient data tracking.
 
-### 📚 [ScholarSpace](https://github.com/AakashPrabhu24/ScholarSpace)
-> **Intelligent Constraint-Optimization & Workload Scheduling Agent**  
-> `Python` • `Django 5` • `Gemini API` • `Google Calendar API` • `SQLite` • `Twilio`
+<p align="left">
+  <a href="https://github.com/AakashPrabhu24/CliniSync-AI"><img src="https://img.shields.io/badge/DEPLOY_REPO-CliniSync_AI-magenta?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<hr/>
+</details>
+
+<br/>
+
+<!-- =========================================================================
+     MISSION 04: SCHOLARSPACE
+========================================================================= -->
+<details>
+<summary>
+<b>📚 MISSION 04: SCHOLARSPACE // CONSTRAINT-OPTIMIZATION SCHEDULING AGENT</b>
+<br/>
+<img src="https://img.shields.io/badge/ENGINE-CONSTRAINT_SOLVER-FFD700?style=flat-square"/> 
+<img src="https://img.shields.io/badge/INTELLIGENCE-GEMINI_API-4285F4?style=flat-square"/> 
+<img src="https://img.shields.io/badge/SYNC-GOOGLE_CALENDAR-34A853?style=flat-square"/>
+<br/>
+👉 <i><code>[CLICK TO DECRYPT SCHEDULING ENGINE & AI UTILITIES]</code></i>
+</summary>
+<br/>
+
+#### 💥 The Crisis
+Students juggle 5 disconnected apps for timetables, quizzes, notes, and deadlines, leading to timetable collisions and burn-out.
+
+#### 🛡️ The Autonomous Solution
+Built a unified academic workspace with an automated constraint-satisfaction scheduling engine, conflict detection, and Gemini-powered smart utilities.
 
 ```text
 [Course Syllabi & Assignment Deadlines]
@@ -149,13 +229,21 @@ technical_primitives:
        ▼
 [Twilio SMS Alerts & Google Calendar Sync]
 ```
-- **Constraint-Satisfaction Engine:** Dynamically analyzes academic deadlines, detects timetable collisions, and generates balanced weekly study routines.
-- **Agentic AI Utilities:** Integrated Gemini API workflows for automated equation parsing, handwriting recognition, and contextual study recommendations.
-- **Typo-Tolerant External Search:** Built fuzzy book search querying Google Books and OpenLibrary APIs with dynamic ranking fallbacks.
+
+#### 🕹️ High-Tech Highlights
+- 🧩 **Constraint Satisfaction Engine:** Algorithmic timetable generator that analyzes assignment deadlines and generates collision-free weekly study routines.
+- 🤖 **Gemini AI Workflows:** Automated math handwriting recognition, equation solving, and adaptive academic task generation.
+- 🔍 **Typo-Tolerant Discovery:** Fuzzy book search across Google Books and OpenLibrary APIs with dynamic ranking fallbacks.
+
+<p align="left">
+  <a href="https://github.com/AakashPrabhu24/ScholarSpace"><img src="https://img.shields.io/badge/DEPLOY_REPO-ScholarSpace-orange?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<hr/>
+</details>
 
 ---
 
-## 🛠️ Weaponry & Tech Arsenal
+## ⚡ WEAPONRY & TECH ARSENAL
 
 <div align="center">
 
@@ -163,33 +251,35 @@ technical_primitives:
   <img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js,django,nodejs,express,postgres,mysql,sqlite,firebase,mongodb,aws,git,github,docker,postman,tailwind,bootstrap" />
 </p>
 
-</div>
+| 🔮 DOMAIN | ⚡ STACK & CAPABILITIES |
+| :--- | :--- |
+| **🤖 AI & RETRIEVAL** | `Autonomous Agents` • `Semantic Search` • `TF-IDF Vectorization` • `Cosine Similarity` • `RAG` • `JSON Schemas` |
+| **💻 LANGUAGES** | `Python` • `Kotlin` • `Java` • `C` • `C++` • `JavaScript (ES6+)` • `SQL` • `Bash` |
+| **🛰️ DISTRIBUTED CORE** | `Django Channels` • `WebSockets` • `Daphne` • `Celery` • `Node.js` • `RESTful API Architecture` |
+| **🗄️ DATA LAKE** | `PostgreSQL` • `MySQL` • `SQLite` • `Firebase Firestore (Multi-Zone)` • `MongoDB` |
+| **👁️ COMPUTER VISION** | `Ultralytics YOLOv8` • `OpenCV` • `PyTorch` • `Scikit-learn` • `NumPy` • `Pandas` |
+| **☁️ INFRASTRUCTURE** | `AWS (EC2, S3)` • `Docker` • `Render` • `Git/GitHub` • `Postman` • `Linux` |
 
-- **🤖 AI & Retrieval:** Autonomous AI Agents, Semantic Search, TF-IDF Vectorization, Cosine Similarity, RAG, Prompt Architecture, Structured JSON Extraction
-- **⚡ Languages:** Python, Kotlin, Java, C, C++, JavaScript (ES6+), SQL, Bash
-- **🛰️ Backend & Core:** Django, Django REST Framework, Django Channels (WebSockets), Node.js, Daphne, Celery, RESTful API Design
-- **🗄️ Databases & Storage:** PostgreSQL, MySQL, SQLite, Firebase Firestore (Multi-Zone Data Lake), MongoDB
-- **☁️ Cloud & Tooling:** AWS (EC2, S3), Docker, Render, Git/GitHub, Postman, Linux
-- **👁️ Vision & ML:** Ultralytics YOLOv8, OpenCV, PyTorch, Scikit-learn, Pandas, NumPy
+</div>
 
 ---
 
-## 📊 Live Engineering Telemetry & Activity Waveform
+## 📈 LIVE ENGINEERING TELEMETRY & CODING PULSE
 
 <div align="center">
 
-<!-- Animated Activity Waveform -->
+<!-- Animated Frequency Waveform -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashPrabhu24&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=00F2FE&line=00F2FE&point=ffffff" width="98%" alt="Activity Waveform" />
 </p>
 
-<!-- GitHub Stats & Streak Cards -->
+<!-- GitHub Stats & Streak Matrix -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AakashPrabhu24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9" alt="Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashPrabhu24&theme=tokyonight&hide_border=true&background=0d1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="Streak" width="48%"/>
 </p>
 
-<!-- Top Languages Chart -->
+<!-- Top Languages Matrix -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashPrabhu24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9" alt="Top Languages" width="48%"/>
 </p>
@@ -198,26 +288,30 @@ technical_primitives:
 
 ---
 
-## 🏆 Honors & Verified Proof of Work
+## 🏆 TROPHY VAULT & VERIFIED PROOF OF WORK
 
-- 🏅 **Department Rank #2** | *St. Francis Institute of Technology (CGPA: 9.20 / 10.0, 2026)*
-- ⭐ **NPTEL Star Performer Award (2026)** | *IIT Certification across Python, DBMS, DMBI, C++, Java*
-- 🚀 **National Finalist** | *PRAGATI National-Level Technical Innovation Competition*
-- 🤖 **Google Certified** | *Google Prompting Essentials Certification (2025)*
-- ⚡ **Hackathon Competitor** | *Colloquium ITSA Innovation Hackathon*
-
----
-
-## ⚡ Engineering Axioms I Build By
-
-- **1. Determinism Over Chance:** Wrap probabilistic LLMs in strict JSON schemas, type validation, and regex boundaries.
-- **2. Edge Over Cloud:** If TF-IDF or vectorization can run in `<15ms` in-browser, never make an expensive server roundtrip.
-- **3. Event-Driven Concurrency:** WebSockets and asynchronous message queues over naive polling. Milliseconds matter.
-- **4. Rigor Over Hype:** Profile latency, memory allocations, and database queries with objective benchmarks.
+```text
+┌────────────────────────────────────────────────────────┐
+│ 🏅 SFIT IT DEPARTMENT RANK #2 (CGPA: 9.20 / 10.0)      │
+│ ⭐ NPTEL STAR PERFORMER AWARD (2026) | IIT CERTIFIED   │
+│ 🚀 NATIONAL FINALIST | PRAGATI INNOVATION HACKATHON    │
+│ 🤖 GOOGLE PROMPTING ESSENTIALS CERTIFIED (2025)        │
+│ 📜 NPTEL CERTIFIED: PYTHON (ELITE), DBMS, DMBI, C++, JAVA│
+└────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🛰️ Terminal Ping & Direct Line
+## ⚡ CORE AXIOMS
+
+- **1. DETERMINISM OVER CHANCE:** Wrap probabilistic LLMs in strict JSON schemas & regex boundaries.
+- **2. EDGE OVER CLOUD:** If an IR vector query can run in `<15ms` in-browser, never make an expensive cloud hop.
+- **3. EVENT-DRIVEN CONCURRENCY:** WebSockets and async workers over repetitive polling. Milliseconds save lives.
+- **4. MEASURABLE RIGOR:** Always benchmark latency, token costs, and database indices.
+
+---
+
+## 🛰️ PING TERMINAL & DISPATCH
 
 ```bash
 $ curl -s https://api.github.com/users/AakashPrabhu24
