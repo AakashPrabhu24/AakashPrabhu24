@@ -17,7 +17,7 @@
 
 <!-- 🕹️ RPG-STYLE CHARACTER STAT CARD -->
 <p align="center">
-  <img src="./assets/profile_avatar.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 25px rgba(0,242,254,0.6);" alt="Aakash Prabhu Cyber Avatar" />
+  <img src="./profile_avatar.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 25px rgba(0,242,254,0.6);" alt="Aakash Prabhu Cyber Avatar" />
 </p>
 
 <table align="center">
@@ -60,7 +60,8 @@
      MISSION 01: CRASHKAVACH
 ========================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12&height=180&section=header&text=%F0%9F%9A%A8%20CRASHKAVACH%20:%20AI%20COLLISION%20DETECTION&fontSize=32&fontAlignY=38&desc=%E2%9A%A1%20YOLOv8%20Edge%20Vision%20%7C%20Django%20Channels%20WebSockets%20%7C%20120s%20Escalation&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="CrashKavach Animated Banner" />
+  <img src="./crashkavach_banner.gif" width="100%" alt="CrashKavach Animated Telemetry Banner" />
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=800&color=FF3B30&center=true&vCenter=true&width=750&height=35&lines=CAM_04%3A+HIGHWAY+JUNCTION+%5BONLINE%5D;VEHICLE+IMPACT+DETECTED+%5BCONF%3A+99.2%25%5D;WEBSOCKET+BROADCAST+TO+5+PORTALS...;120s+COUNTDOWN+ARMED+%5BTWILIO+DISPATCH%5D" alt="CrashKavach Console" />
 </p>
 
@@ -115,7 +116,8 @@ Engineered an end-to-end incident dispatch platform that actively monitors video
      MISSION 02: CAMPUSPITCH
 ========================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,22,25&height=180&section=header&text=%F0%9F%8E%AF%20CAMPUSPITCH%20:%20TWO-SIDED%20MATCHMAKER&fontSize=32&fontAlignY=38&desc=%E2%9A%A1%20Gemini%20Agent%20Swarm%20%7C%200.0%20-%201.0%20Relevance%20%7C%20Kotlin%20Compose&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="CampusPitch Animated Banner" />
+  <img src="./campuspitch_banner.gif" width="100%" alt="CampusPitch Animated Telemetry Banner" />
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=800&color=00F2FE&center=true&vCenter=true&width=750&height=35&lines=STUDENT_INTAKE_AGENT%3A+PARSING+VOICE+PITCH...;SCHEMA+VALIDATED+%5BRAISE%2C+SECTOR%2C+STAGE%5D;INVESTOR_SEARCH_AGENT%3A+RELEVANCE+SCORE+0.948;SYNTHESIZING+AUTONOMOUS+OUTREACH+BRIEF..." alt="CampusPitch Console" />
 </p>
 
@@ -167,7 +169,8 @@ Engineered an AI-driven deal flow ecosystem that conducts conversational pitch i
      MISSION 03: CLINISYNC AI
 ========================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12,14&height=180&section=header&text=%F0%9F%A7%A0%20CLINISYNC%20AI%20:%20SUB-15MS%20SEMANTIC%20SEARCH&fontSize=32&fontAlignY=38&desc=%E2%9A%A1%20Client-Side%20TF-IDF%20Vectorization%20%7C%20Synonym%20N-Grams%20%7C%20100%25%20Privacy&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="CliniSync AI Animated Banner" />
+  <img src="./clinisync_banner.gif" width="100%" alt="CliniSync AI Animated Telemetry Banner" />
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=750&height=35&lines=INGESTING+COLLOQUIAL+SYMPTOMS+%5B%22chest+hurts%22%5D;SYNONYM+NORMALIZER%3A+MAPPED+TO+chest_pain;IN-MEMORY+TF-IDF+SIMILARITY+COMPUTED;SUB-15MS+INFERENCE+%5BZERO+SERVER+TRACKING%5D" alt="CliniSync AI Console" />
 </p>
 
@@ -219,7 +222,8 @@ Engineered a client-side semantic search and triage engine running entirely in v
      MISSION 04: SCHOLARSPACE
 ========================================================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,10,12&height=180&section=header&text=%F0%9F%93%9A%20SCHOLARSPACE%20:%20CONSTRAINT%20OPTIMIZATION&fontSize=32&fontAlignY=38&desc=%E2%9A%A1%20Automated%20Timetable%20Scheduler%20%7C%20Gemini%20API%20%7C%20Twilio%20%2B%20G-Calendar&descAlignY=62&descAlign=50&animation=fadeIn" width="100%" alt="ScholarSpace Animated Banner" />
+  <img src="./scholarspace_banner.gif" width="100%" alt="ScholarSpace Animated Telemetry Banner" />
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=750&height=35&lines=SCANNING+ASSIGNMENT+DEADLINES+%26+SYLLABI...;CONSTRAINT+ENGINE%3A+TIMETABLE+COLLISION+DETECTED;RESOLVING+SCHEDULE+CONSTRAINTS+%5BALANCED+ROUTINE%5D;GOOGLE+CALENDAR+SYNCED+%7C+TWILIO+SMS+ARMED" alt="ScholarSpace Console" />
 </p>
 
@@ -315,13 +319,13 @@ Built a unified academic workspace with an automated constraint-satisfaction sch
 ## 🏆 TROPHY VAULT & VERIFIED PROOF OF WORK
 
 ```text
-┌────────────────────────────────────────────────────────┐
-│ 🏅 SFIT IT DEPARTMENT RANK #2 (CGPA: 9.20 / 10.0)      │
-│ ⭐ NPTEL STAR PERFORMER AWARD (2026) | IIT CERTIFIED   │
-│ 🚀 NATIONAL FINALIST | PRAGATI INNOVATION HACKATHON    │
-│ 🤖 GOOGLE PROMPTING ESSENTIALS CERTIFIED (2025)        │
-│ 📜 NPTEL CERTIFIED: PYTHON (ELITE), DBMS, DMBI, C++, JAVA│
-└────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│ 🏅 SFIT IT DEPT RANK #2 (CGPA: 9.20 / 10.0)      │
+│ ⭐ NPTEL STAR PERFORMER AWARD | IIT CERTIFIED    │
+│ 🚀 NATIONAL FINALIST | PRAGATI INNOVATION HACK   │
+│ 🤖 GOOGLE PROMPTING ESSENTIALS CERTIFIED (2025)  │
+│ 📜 NPTEL CERTIFIED: PYTHON (ELITE), DBMS, DMBI   │
+└──────────────────────────────────────────────────┘
 ```
 
 ---
