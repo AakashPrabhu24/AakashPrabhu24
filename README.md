@@ -55,6 +55,10 @@
 <!-- =========================================================================
      MISSION 01: CRASHKAVACH
 ========================================================================= -->
+<p align="center">
+  <img src="./assets/crashkavach_banner.gif" width="100%" alt="CrashKavach Live System Telemetry Animation" />
+</p>
+
 <details>
 <summary>
 <b>🚨 MISSION 01: CRASHKAVACH // COMPUTER VISION EMERGENCY ORCHESTRATION</b>
@@ -105,6 +109,10 @@ Engineered an end-to-end incident dispatch platform that actively monitors video
 <!-- =========================================================================
      MISSION 02: CAMPUSPITCH
 ========================================================================= -->
+<p align="center">
+  <img src="./assets/campuspitch_banner.gif" width="100%" alt="CampusPitch Live Multi-Agent Telemetry Animation" />
+</p>
+
 <details>
 <summary>
 <b>🎯 MISSION 02: CAMPUSPITCH // CONVERSATIONAL AI TWO-SIDED MATCHMAKER</b>
@@ -152,6 +160,10 @@ Engineered an AI-driven deal flow ecosystem that conducts conversational pitch i
 <!-- =========================================================================
      MISSION 03: CLINISYNC AI
 ========================================================================= -->
+<p align="center">
+  <img src="./assets/clinisync_banner.gif" width="100%" alt="CliniSync AI Semantic Vectorization Animation" />
+</p>
+
 <details>
 <summary>
 <b>🧠 MISSION 03: CLINISYNC AI // ZERO-SERVER SEMANTIC SEARCH ENGINE</b>
@@ -199,6 +211,10 @@ Engineered a client-side semantic search and triage engine running entirely in v
 <!-- =========================================================================
      MISSION 04: SCHOLARSPACE
 ========================================================================= -->
+<p align="center">
+  <img src="./assets/scholarspace_banner.gif" width="100%" alt="ScholarSpace Constraint Solver Animation" />
+</p>
+
 <details>
 <summary>
 <b>📚 MISSION 04: SCHOLARSPACE // CONSTRAINT-OPTIMIZATION SCHEDULING AGENT</b>
