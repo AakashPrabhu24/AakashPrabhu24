@@ -45,20 +45,24 @@
 ```jsonc
 {
   "engineer": "Aakash Keshav Prabhu",
-  "focus": "AI Agents • Semantic Search & Retrieval • Matching Systems • Real-Time Infrastructure",
-  "education": {
-    "degree": "Bachelor of Engineering in Information Technology",
-    "institution": "St. Francis Institute of Technology (SFIT), Mumbai",
-    "timeline": "2023 - 2027",
-    "metrics": "CGPA: 9.20 / 10.0 • Department Rank: 2"
-  },
-  "core_primitives": [
-    "Autonomous LLM Multi-Agent Loops (Gemini API, function calling, state tracking, structured JSON output validation)",
-    "Semantic Search & Information Retrieval (TF-IDF vector similarity, IDF weighting, domain synonym normalization)",
-    "Two-Sided Matching Systems (Multi-criteria ranking algorithms, 0.0 - 1.0 normalized relevance scores)",
-    "Distributed Event-Driven Backends (Django Channels, WebSockets, Celery, low-latency telemetry streaming)"
+  "focus": [
+    "Autonomous AI Agents",
+    "Semantic Search & IR",
+    "Two-Sided Matching Systems",
+    "Real-Time Event Backends"
   ],
-  "philosophy": "Probabilistic intelligence requires deterministic guardrails. Benchmark latency, eliminate silent failures."
+  "education": {
+    "degree": "B.E. Information Technology",
+    "college": "SFIT Mumbai (2023 - 2027)",
+    "metrics": "CGPA: 9.20 / 10 • Dept. Rank 2"
+  },
+  "primitives": {
+    "agents": "Gemini LLM & JSON schemas",
+    "search": "TF-IDF vector similarity",
+    "matching": "Multi-criteria ranking (0.0 - 1.0)",
+    "events": "Django Channels & WebSockets"
+  },
+  "ethos": "Deterministic bounds for AI."
 }
 ```
 
@@ -74,13 +78,16 @@
 > **Distributed AI Incident Detection & Real-Time Emergency Dispatch**
 
 ```text
-[CCTV Video Streams] ──► [YOLOv8 + OpenCV]
-                               │ Collision Detected
-                               ▼
-[Django Channels WebSockets] ──► [5 Responder Portals]
-                               │ No Ack within 120s
-                               ▼
-[Twilio REST APIs] ────────► [Automated SMS/Voice Alert]
+[CCTV Video Streams]
+       │ Ingestion
+       ▼
+[YOLOv8 + OpenCV]
+       │ Collision Detected
+       ▼
+[Django Channels WebSockets]
+       │ Broadcast to 5 Dashboards
+       ▼
+[Twilio REST APIs (Escalation)]
 ```
 * **Event-Driven Computer Vision:** Ingests and processes high-resolution CCTV/camera feeds in real time using **YOLOv8** for collision detection.
 * **Low-Latency Telemetry Broadcasting:** Built a WebSocket event hub via Django Channels, synchronizing live incident coordinates across **5 distinct responder dashboards** (Police, Hospital, Fire, Media, Admin) concurrently.
@@ -94,13 +101,16 @@
 > **Conversational AI Deal Flow & Two-Sided Matching Platform**
 
 ```text
-[Spoken/Typed Pitch] ──► [StudentIntakeAgent (Gemini)]
-                               │ Structured Entity Extraction
-                               ▼
-[Natural Query Search] ─► [InvestorSearchAgent]
-                               │ 0.0 - 1.0 Multi-Criteria Scoring
-                               ▼
-[Matched Deal Flow] ───► [Autonomous Outreach Generator]
+[Conversational Pitch]
+       │
+       ▼
+[StudentIntakeAgent (Gemini)]
+       │ Structured JSON
+       ▼
+[InvestorSearchAgent]
+       │ 0.0 - 1.0 Match
+       ▼
+[Autonomous Outreach Brief]
 ```
 * **Autonomous Multi-Agent Architecture:** Engineered `StudentIntakeAgent`, `InvestorSearchAgent`, and `InvestorRegistrationAgent` using Google Gemini LLM to parse free-form dialogue into strictly validated JSON schemas.
 * **Two-Sided Matching Engine:** Computes multidimensional relevance scores (0.0 to 1.0) aligning founder pitches with investor investment theses across sector taxonomies, synonyms, and capital limits.
@@ -117,13 +127,16 @@
 > **Semantic Search & Multi-Factor Diagnostic Matching Engine**
 
 ```text
-[Free-Form User Symptom] ──► [Synonym Normalizer & N-Grams]
-                                    │ Canonical Mapping
-                                    ▼
-[In-Memory TF-IDF Engine] ───► [Inverse Document Frequency (IDF)]
-                                    │ Cosine Similarity + Severity
-                                    ▼
-[Zero-Server Browser] ───────► [Sub-15ms Triage Classification]
+[User Symptom Query]
+       │
+       ▼
+[Synonym Normalizer]
+       │
+       ▼
+[TF-IDF Vector Engine]
+       │ Sub-15ms Latency
+       ▼
+[Stratified Triage Level]
 ```
 * **Client-Side Information Retrieval:** Built a custom vectorization engine utilizing Inverse Document Frequency (IDF) and weighted TF-IDF vector similarity to match colloquial queries against medical knowledge bases.
 * **Synonym Normalization Pipeline:** Implemented n-gram tokenization and domain synonym dictionaries, mapping conversational phrases (*"chest hurts"*) into canonical clinical entities (*"chest_pain"*).
@@ -137,13 +150,16 @@
 > **Intelligent Academic Workload & Automated Scheduling Agent**
 
 ```text
-[Syllabi & Deadlines] ───► [Constraint-Satisfaction Engine]
-                                 │ Collision Detection
-                                 ▼
-[Gemini AI Utility Agent] ─► [Adaptive Study Plan + Math Solver]
-                                 │ Real-Time Sync
-                                 ▼
-[Django Signals] ────────► [Twilio SMS + Google Calendar Sync]
+[Syllabi & Deadlines]
+       │
+       ▼
+[Constraint-Satisfaction Engine]
+       │ Conflict Resolution
+       ▼
+[Gemini AI Utility Agent]
+       │ Real-Time Sync
+       ▼
+[Twilio SMS & Google Calendar]
 ```
 * **Constraint Optimization:** Designed an automated scheduling engine that analyzes assignment deadlines, dynamically detects schedule collisions, and generates balanced weekly study timetables.
 * **LLM Utility Orchestration:** Integrated Google Gemini API for intelligent academic assistants, automated math equation recognition, and adaptive learning recommendations.
@@ -205,16 +221,12 @@
 
 ## 🏆 Honors, Awards & Academic Verifications
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  🏅 Secured 2nd Rank in IT Department (Academic Performance 2026) | SFIT Mumbai        │
-│  ⭐ NPTEL Star Performer Award (2026) | Indian Institute of Technology                │
-│  🚀 Finalist, PRAGATI National-Level Technical Innovation Competition                  │
-│  🤖 Google Prompting Essentials Certified (2025)                                       │
-│  📜 NPTEL Certifications: Python (Elite), DBMS, DMBI, C++, and Java                   │
-│  ⚡ Hackathon Competitor: Colloquium ITSA Competition                                  │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+- 🏅 **Secured 2nd Rank in IT Department** (Academic Performance 2026) — *SFIT Mumbai*
+- ⭐ **NPTEL Star Performer Award (2026)** — *Indian Institute of Technology (IIT)*
+- 🚀 **Finalist**, **PRAGATI** National-Level Technical Innovation Competition
+- 🤖 **Google Prompting Essentials Certified (2025)**
+- 📜 **NPTEL Certifications:** Programming in Python (Elite), DBMS, DMBI, C++, and Java
+- ⚡ **Hackathon Competitor:** Colloquium ITSA Competition
 
 ---
 
@@ -230,8 +242,7 @@
 ## 💬 Connect & Collaborate
 
 ```bash
-# Ping my terminal
-$ curl -s https://api.github.com/users/AakashPrabhu24 | jq '.bio'
+$ curl -s https://api.github.com/users/AakashPrabhu24
 ```
 
 <p align="center">
